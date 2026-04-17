@@ -42,10 +42,21 @@ pip install -r requirements.txt
 ---
 📌 Basic Command
 ```bash
-python scan.py -l list.txt
+$ python scan.py -l list.txt
 ```
 ⚡ Advanced Usage
 ```bash
-python scan.py -l targets.txt -t 10
+$ python scan.py -l targets.txt -t 10
 ```
 ---
+**AUTO EXPLOIT MODE**
+---
+📌 Usage
+```bash
+$ python exp.py
+Target URL: https://example.com
+Cookie Lengkap: Your_Cookie
+Csrf Token: Your_Csrf
+```
+
+
