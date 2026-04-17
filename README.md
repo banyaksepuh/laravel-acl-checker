@@ -40,11 +40,11 @@ pip install -r requirements.txt
 ---
 **MASS SCANNING MODE**
 ---
-📌 Basic Command
+📌 Basic Command with list
 ```bash
 $ python scan.py -l list.txt
 ```
-⚡ Advanced Usage
+⚡ Advanced Usage with thread
 ```bash
 $ python scan.py -l targets.txt -t 10
 ```
