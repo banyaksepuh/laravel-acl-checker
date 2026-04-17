@@ -37,7 +37,8 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-
+---
+**MASS SCANNING MODE**
 ---
 📌 Basic Command
 ```bash
@@ -47,3 +48,4 @@ python scan.py -l list.txt
 ```bash
 python scan.py -l targets.txt -t 10
 ```
+---
